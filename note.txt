@@ -1,0 +1,3 @@
+Pyinstaller
+	 pyinstaller myInstall.spec
+	 
